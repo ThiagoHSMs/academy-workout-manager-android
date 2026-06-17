@@ -3,14 +3,14 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/treino-hoje.png" width="220"/>
-  <img src="screenshots/meus-treinos.png" width="220"/>
-  <img src="screenshots/historico.png" width="220"/>
+  <img src="./screenshots/Treino-de-hoje.png" width="220"/>
+  <img src="./screenshots/Lista-de-Treinos.png" width="220"/>
+  <img src="./screenshots/Historico.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/evolucao.png" width="220"/>
-  <img src="screenshots/configuracoes.png" width="220"/>
+  <img src="./screenshots/Evolucao.png" width="220"/>
+  <img src="./screenshots/Config.png" width="220"/>
 </p>
 
 Aplicativo Android profissional para gerenciamento de treinos, desenvolvido com:
