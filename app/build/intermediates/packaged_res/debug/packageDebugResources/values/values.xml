@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">GymTracker</string>
-    <style name="Theme.GymTracker" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
