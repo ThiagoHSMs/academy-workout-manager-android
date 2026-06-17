@@ -1,0 +1,4 @@
+-keep class com.gymtracker.data.local.entity.** { *; }
+-keep class com.gymtracker.domain.model.** { *; }
+-keepattributes *Annotation*
+-dontwarn kotlinx.coroutines.**
