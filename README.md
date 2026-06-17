@@ -1,5 +1,18 @@
 # 🏋️ GymTracker - Organizador de Treinos de Academia
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/treino-hoje.png" width="220"/>
+  <img src="screenshots/meus-treinos.png" width="220"/>
+  <img src="screenshots/historico.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/evolucao.png" width="220"/>
+  <img src="screenshots/configuracoes.png" width="220"/>
+</p>
+
 Aplicativo Android profissional para gerenciamento de treinos, desenvolvido com:
 - **Kotlin** + **Jetpack Compose**
 - **Room Database** (SQLite offline)
